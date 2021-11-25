@@ -1,0 +1,7 @@
+﻿  源.cpp
+C:\Users\彭善智\Desktop\临时文件\Project1\源.cpp(4,2): error C2065: “cout”: 未声明的标识符
+C:\Users\彭善智\Desktop\临时文件\Project1\源.cpp(6,3): error C2065: “cin”: 未声明的标识符
+C:\Users\彭善智\Desktop\临时文件\Project1\源.cpp(7,2): error C2065: “cout”: 未声明的标识符
+C:\Users\彭善智\Desktop\临时文件\Project1\源.cpp(18,2): error C2065: “cout”: 未声明的标识符
+C:\Users\彭善智\Desktop\临时文件\Project1\源.cpp(20,3): error C2065: “cout”: 未声明的标识符
+C:\Users\彭善智\Desktop\临时文件\Project1\源.cpp(21,2): error C2065: “cout”: 未声明的标识符
